@@ -1,0 +1,39 @@
+.bg{
+    background-color: rgb(26, 192, 192);
+}
+.navbarfont:hover{
+    font-size: larger;
+    text-decoration: underline;
+    color: black;
+}
+.navbarfont{
+    font-weight: bold;
+}
+.myname{
+    font-weight: bolder;
+    color: rgb(28, 181, 181);
+}
+.rowcontent{
+    padding-top: 200px;
+    padding-left: 80px;
+}
+.image{
+    padding-top: 50px;
+    padding-right: 50px;
+}
+.font{
+    font-weight: bold;
+    color: black;
+}
+.fontabout{
+    font-size: large;
+    font-weight: 400;
+}
+.footertext{
+    color: white;
+    font-weight: bold;
+}
+.footertext:hover{
+    color: white;
+    opacity: 0.5;
+}
